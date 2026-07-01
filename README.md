@@ -1285,11 +1285,11 @@ Raw Data
 - [Building a Data Lake on AWS](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html)
 - [AWS Glue Best Practices](https://docs.aws.amazon.com/whitepapers/latest/aws-glue-best-practices-build-performant-data-pipeline/aws-glue-best-practices-build-performant-data-pipeline.html)
 - [AWS Streaming Data Solution for Kinesis](https://aws.amazon.com/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/)
-- [Modern Data Architecture on AWS](https://docs.aws.amazon.com/whitepapers/latest/modern-data-architecture/modern-data-architecture.html)
+- [AWS Prescriptive Guidance: Modern Data Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/)
 - [AWS Well-Architected Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)
-- [Serverless Analytics on AWS](https://docs.aws.amazon.com/whitepapers/latest/serverless-analytics/serverless-analytics.html)
-- [Data Lake Formation and Governance on AWS](https://docs.aws.amazon.com/whitepapers/latest/data-lake-formation-governance/data-lake-formation-governance.html)
-- [AWS Security Best Practices for Data Lakes](https://docs.aws.amazon.com/whitepapers/latest/aws-security-best-practices-data-lakes/aws-security-best-practices-data-lakes.html)
+- [AWS Serverless Application Model (SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+- [AWS Lake Formation Developer Guide](https://docs.aws.amazon.com/lake-formation/latest/dg/what-is-lake-formation.html)
+- [AWS Lake Formation Security Guide](https://docs.aws.amazon.com/lake-formation/latest/dg/security.html)
 
 ### High-Value AWS Blogs and Guides
 - [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/)
